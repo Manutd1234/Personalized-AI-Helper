@@ -1,0 +1,7 @@
+# No external dependencies required - uses only Python standard library
+# Python 3.7+ recommended
+
+# Optional: For enhanced features in future versions
+# colorama>=0.4.6  # For colored terminal output
+# click>=8.0.0     # For advanced CLI features
+# rich>=13.0.0     # For rich terminal formatting
