@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Pomodoro Timer Data
+.pomodoro_data/
+.demo_pomodoro_data/
+.test_pomodoro_data/
+.test_integration_data/
+*.json
