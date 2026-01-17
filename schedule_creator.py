@@ -3,10 +3,8 @@ AI Schedule Creator Module
 Creates personalized study schedules based on user patterns and preferences.
 """
 
-import json
 from datetime import datetime, timedelta
-from typing import Dict, List, Tuple, Optional
-import random
+from typing import Dict, List, Optional
 
 
 class ScheduleCreator:

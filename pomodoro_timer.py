@@ -3,8 +3,6 @@ Pomodoro Timer Module
 Implements a customizable Pomodoro timer with session tracking.
 """
 
-import time
-import json
 from datetime import datetime, timedelta
 from typing import Dict, List, Optional
 
